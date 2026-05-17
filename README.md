@@ -1,4 +1,5 @@
-# ![logo](./docs/images/faraday_logo.svg)
+## FARADAY
+
 ![](https://img.shields.io/twitter/follow/faradaysec)
 ![](https://img.shields.io/docker/pulls/faradaysec/faraday)
 ---
